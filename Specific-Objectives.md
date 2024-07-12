@@ -1,4 +1,4 @@
-# Multi-Agent-Systems-Development-to-Control--the-LCAR-Manufacturing-Cell~
+# Multi-Agent-Systems-Development-to-Control--the-LCAR-Manufacturing-Cell
 The Thesis aims to develop a monitoring and control system for the small-scale production system located at the Laboratório de Controlo, Automação e Robótica (LCAR) of the Escola Superior de Tecnologia e Gestão (ESTiG) of the Instituto Politécnico de Bragança (IPB).
 
 The development will be carried out using agent systems technology, specifically the Java Agent DEvelopment Framework (JADE). 
