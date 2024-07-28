@@ -1,0 +1,10 @@
+{
+  "mqtt":  {
+    "broker": "tcp://broker.emqx.io:1883",
+    "topic": "topic/inspection"
+  },
+  "skills":
+  {
+    "skill":"inspect"
+  }
+}

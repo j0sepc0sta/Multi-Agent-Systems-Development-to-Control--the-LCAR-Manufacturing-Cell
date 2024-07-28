@@ -1,0 +1,11 @@
+{
+  "sequences": [
+    {"sequence": "transfer"},
+    {"sequence": "drill"},
+    {"sequence": "transfer"},
+    {"sequence": "punch"},
+    {"sequence": "transfer"},
+    {"sequence": "inspect"},
+    {"sequence": "transfer"}
+  ]
+}
