@@ -6,8 +6,7 @@ Politécnico de Bragança (IPB).
 The development will be carried out using agent systems technology, specifically
 the JADE.
 
-In simplified terms, distributed software components will be designed and devel-
-oped to represent the existing physical components, particularly the FischertechnikTM
+In simplified terms, distributed software components will be designed and developed to represent the existing physical components, particularly the Fischertechnik
 production machines and the e IRB 1400 ABB Robot for handling.
 
 The interactions between the various agents will also be designed to support
